@@ -1,10 +1,12 @@
 /* Stacks! */
+// * LIFO(Last In First Out)
+// * The last element on the stack is the first one off the stack
 
 // functions: push, pop, peek, lenght
-// push()   -> adds one or more elements to the end of an array and returns the new length of the array.
-// pop()    -> removes the last element from an array and returns that element. This method changes the length of the array.
-// peek()   -> returns the value at the beginning of a collection.
-// lenght() -> returns the number of elements in that array.
+// push() - adds one or more elements to the end of an array and returns the new length of the array.
+// pop() - removes the last element from an array and returns that element. This method changes the length of the array.
+// peek() - returns the value at the beginning of a collection.
+// lenght() - returns the number of elements in that array.
 
 var letters = []; // this is our stack
 
